@@ -44,3 +44,4 @@ _address: The address from which the tokens will be burned.
 _value: The amount of tokens to be burned.
 ## License
 This contract is licensed under the MIT License. SPDX-License-Identifier: MIT.
+https://www.loom.com/share/7df5de1878c743948e7c61137e3ff77c?sid=1e0cc679-fce8-4ce8-837a-69234b9ea277
